@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi there 👋
+My name is Gleb , I am a 2nd year software engineer student.
+My purpose: is to create a soft to make life easier.
 
-<!--
-**glebs0n1/glebs0n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Spring Framework
+I have been writing in Java for the second year
+I’m currently working on University Labs
+I work a little with the front Html/css/js/ts
+I can write a little php
+I will be happy to take part in various it competitions and Hackathons
+Ask me about anything in vk or telegram
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
