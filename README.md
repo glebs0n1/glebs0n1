@@ -1,6 +1,6 @@
 👋 My name is Gleb and I'm a 2nd year software engineer student! 👋<br>
 My purpose: is to create a soft to make life easier.<br>
-💻 Ihave been writing in Java for the second year<br>
+💻 I have been writing in Java for the second year<br>
 🌱 I’m currently learning Spring Framework<br>
 👨🏽‍💻 I work a little with the front Html/css/js/<br>
 👨🏽‍💻 I can write a little php and C++<br>
