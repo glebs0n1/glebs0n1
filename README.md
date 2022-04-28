@@ -9,4 +9,3 @@ My purpose: is to create a soft to make life easier.<br>
 📩 Ask me about anything in: [Linkedin] https://www.linkedin.com/in/gleb-son-94743b1a7
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glebs0n1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glebs0n1)](https://github.com/anuraghazra/github-readme-stats)
