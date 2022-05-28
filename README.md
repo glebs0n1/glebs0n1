@@ -1,6 +1,5 @@
 👋 Hi there and welcome to my GitHub account. 👋 <br>
 <h2>My name is Gleb and I'm a 2nd year software engineer student!</h2>
-<br>
 
 🤓 Writing in Java for the second year 💻 <br>
 🌱 I’m currently learning Spring Framework🌱 <br>
