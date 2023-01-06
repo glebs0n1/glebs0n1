@@ -3,7 +3,7 @@
 
 🐝QA Automation Engineering intern at BITĖ Lietuva 🐝
 
-🧠 Writing in Java for the second year 💻 <br>
+🧠 Writing in Java for the third year 💻 <br>
 🌱 I’m currently learning Spring Framework🌱 <br>
 🎉 I will be happy to take part in various IT competitions and Hackathons <br>
 🏅 I participate in programming tournaments.<br>
