@@ -1,7 +1,7 @@
 👋 Hi there and welcome to my GitHub account. 👋 <br>
-<h2>⚡️My name is Gleb and I'm software engineer student!⚡️</h2>
+ <h2>⚡I'm Gleb - Junior Software Engineer !⚡️</h2>
 
-🐝QA Automation Test Engineering at BITĖ Lietuva 🐝
+🐝Previously worked as QA Automation Test Engineering at BITĖ Lietuva 🐝
 
 🧠 Writing in Java for the third year 💻 <br>
 🌱 I’m currently learning Spring Framework🌱 <br>
