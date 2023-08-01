@@ -5,6 +5,6 @@
 🧠Completed the Devbridge Sourcery Academy For Developers🧠
 
 🌱 Currently improving Spring Framework knowledge🌱 <br>
-🎉 I will be happy to take part in various IT competitions and Hackathons <br>
-🏅 I participate in programming tournaments.<br>
+🏅 I participate in programming tournaments<br>
+🎉 I'll be happy to take part in various IT competitions and Hackathons.<br>
  Ask me about anything in: [Linkedin] https://www.linkedin.com/in/gleb-son <br>
