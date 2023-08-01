@@ -4,7 +4,7 @@
 🐝Previously worked as QA Automation Test Engineering at BITĖ Lietuva 🐝<br>
 🧠Completed the Devbridge Sourcery Academy For Developers🧠
 
-🌱 Currently improving Spring Framework knowledge🌱 <br>
+🌱 Currently improving Back-End knowledge🌱 <br>
 🏅 I participate in programming tournaments<br>
 🎉 I'll be happy to take part in various IT competitions and Hackathons.<br>
  Ask me about anything in: [Linkedin] https://www.linkedin.com/in/gleb-son <br>
