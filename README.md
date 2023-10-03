@@ -6,5 +6,5 @@
 
 🌱 Currently improving Back-End knowledge🌱 <br>
 🏅 I participate in programming tournaments<br>
-🎉 I'll be happy to take part in various IT competitions and Hackathons.<br>
- Ask me about anything in: [Linkedin] https://www.linkedin.com/in/gleb-son <br>
+🎉 I'll be happy to take part in various IT competitions and Hackathons!<br>
+ Ask me about anything in: www.linkedin.com/in/gleb-son <br>
