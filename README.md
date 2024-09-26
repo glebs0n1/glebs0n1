@@ -2,8 +2,8 @@
  <h2>⚡I'm Gleb - Junior Software Engineer !⚡️</h2>
 
 🐝Previously worked as QA Automation Test Engineering at BITĖ Lietuva 🐝<br>
-🧠Completed the Devbridge Sourcery Academy For Developers🧠
-🧑🏽‍💻Currently works as QA Automation Test Engineering at B1 Lietuva 🧾<br>
+🧠Completed the Devbridge Sourcery Academy For Developers🧠<br>
+🧑🏽‍💻Currently works as QA Automation Test Engineering at B1 Lietuva 🧾
 
 
 🌱 Currently improving Back-End knowledge🌱 <br>
