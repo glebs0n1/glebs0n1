@@ -3,7 +3,7 @@
 
 🐝Previously worked as QA Automation Test Engineering at BITĖ Lietuva 🐝<br>
 🧠Completed the Devbridge Sourcery Academy For Developers🧠<br>
-🧑🏽‍💻Currently works as QA Automation Test Engineering at B1 Lietuva 🧾
+🧑🏽‍💻Currently working as an automated QA test engineer in B1 Lietuva🧾
 
 
 🌱 Currently improving Back-End knowledge🌱 <br>
