@@ -1,5 +1,5 @@
 👋 Hi there and welcome to my GitHub account. 👋 <br>
- <h2>⚡I'm Gleb - Junior Software Engineer !⚡️</h2>
+ <h2>⚡I'm Gleb -  Developer !⚡️</h2>
 
 🐝Previously worked as QA Automation Test Engineering at BITĖ Lietuva 🐝<br>
 🧠Completed the Devbridge Sourcery Academy For Developers🧠<br>
